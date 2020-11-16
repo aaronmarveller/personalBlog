@@ -1,0 +1,11 @@
+.tech {
+  width: 100%;
+  font-size: 30px;
+  align-items: center;
+  justify-content: center;
+}
+.tech .card {
+  width: 80%;
+  margin: 20px auto 20px;
+}
+/*# sourceMappingURL=tech.css.map */

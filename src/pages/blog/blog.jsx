@@ -17,7 +17,9 @@ export default class Blog extends Component {
                         <Nav/>
                     </Header>
                     <Layout style={{ padding: '0' }}>
-                        <Sider style={{backgroundColor: "#d2e0fa"}}>left sidebar</Sider>
+                        <Sider style={{backgroundColor: "#d2e0fa"}}>
+                            LeftSider
+                        </Sider>
                         <Content
                             className="site-layout-background"
                             style={{

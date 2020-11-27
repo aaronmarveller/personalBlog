@@ -1,6 +1,7 @@
 const blogData = [
     {
         title: "mysql与python3",
+        anchor: "1",
         subtitle: [
             "python与mysql的连接",
             "mysql的安装",
@@ -9,6 +10,7 @@ const blogData = [
     },
     {
         title: "LeetCode题型总结之 树",
+        anchor: "2",
         subtitle: [
             "#109. Convert Sorted List to Binary Search Tree",
             "#114. Flatten Binary Tree to Linked List",
@@ -17,6 +19,7 @@ const blogData = [
     },
     {
         title: "LeetCode题型总结之 树",
+        anchor: "3",
         subtitle: [
             "#109. Convert Sorted List to Binary Search Tree",
             "#114. Flatten Binary Tree to Linked List",
@@ -25,6 +28,7 @@ const blogData = [
     },
     {
         title: "LeetCode题型总结之 树",
+        anchor: "4",
         subtitle: [
             "#109. Convert Sorted List to Binary Search Tree",
             "#114. Flatten Binary Tree to Linked List",
@@ -33,6 +37,7 @@ const blogData = [
     },
     {
         title: "LeetCode题型总结之 树",
+        anchor: "5",
         subtitle: [
             "#109. Convert Sorted List to Binary Search Tree",
             "#114. Flatten Binary Tree to Linked List",
